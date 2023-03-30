@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-<img scr="./imagemda.png">
+## Preview
+
+![imagemda](https://user-images.githubusercontent.com/103973828/228923237-1bee1377-134f-400a-9d96-cd32c840b23f.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
